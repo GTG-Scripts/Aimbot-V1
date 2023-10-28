@@ -1,1 +1,6 @@
+--TEEM CHECK
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GTG-Scripts/Aimbot-V1/main/-C-A-T-S-U-S-"))()
+
+
+--NO TEEM CHECK
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GTG-Scripts/Aimbot-V1/main/-C-A-T-S-U-S-2-"))()
